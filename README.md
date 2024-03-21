@@ -10,4 +10,4 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Hobbies
 
-Bailar: ..
+Jugar footbal , cine y entretenerme con youtube entre otras cosas
