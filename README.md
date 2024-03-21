@@ -6,9 +6,10 @@
 
 ## Contactame
 
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+A medida que continúo mi trayectoria en el desarrollo Full Stack, estoy siempre en busca de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectemos y exploremos cómo podemos crear algo increíble juntos!
 
 ## Tecnologia
 
 Back-End: Proficiente en Java, aporto una sólida comprensión del desarrollo del lado del servidor...
+
 Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y amigables para el usuario...
