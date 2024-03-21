@@ -6,7 +6,7 @@
 
 ## Contactame
 
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+Mientras continúo mi camino en el desarrollo Full Stack, siempre estoy en búsqueda de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto a nivel personal como profesional. ¡Conéctate conmigo y exploremos cómo podemos crear algo increíble juntos!
 
 
 
