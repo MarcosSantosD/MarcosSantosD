@@ -21,7 +21,7 @@ Jugar footbal , cine y entretenerme con youtube entre otras cosas
 
 Resolución de problemas: Como desarrollador, prospero resolviendo problemas complejos. Constantemente estoy explorando nuevas tecnologías y...
 
-## Language
+## Languages
 
 -Español
 
