@@ -8,8 +8,15 @@
 
 A medida que continúo mi trayectoria en el desarrollo Full Stack, estoy siempre en busca de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectemos y exploremos cómo podemos crear algo increíble juntos!
 
+## Hobbies
+
+Jugar footbal , cine y entretenerme con youtube entre otras cosas
+
 ## Tecnologia
 
 Back-End: Proficiente en Java, aporto una sólida comprensión del desarrollo del lado del servidor...
 
 Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y amigables para el usuario...
+
+
+
