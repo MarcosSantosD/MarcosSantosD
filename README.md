@@ -8,5 +8,12 @@
 
 Mientras continúo mi camino en el desarrollo Full Stack, siempre estoy en búsqueda de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto a nivel personal como profesional. ¡Conéctate conmigo y exploremos cómo podemos crear algo increíble juntos!
 
+## Language
+
+-Español
+
+-Ingles
+
+-Portugues
 
 
