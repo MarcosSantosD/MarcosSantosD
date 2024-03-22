@@ -19,4 +19,6 @@ Back-End: Proficiente en Java, aporto una sólida comprensión del desarrollo de
 Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y amigables para el usuario...
 
 
+## Habilidades
 
+Resolución de problemas: Como desarrollador, prospero resolviendo problemas complejos. Constantemente estoy explorando nuevas tecnologías y...
